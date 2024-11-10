@@ -75,9 +75,10 @@ Client-server chat applications are foundational to real-time communication over
 
 
 
+
+## PROGRAM:
 ## NAME:KISHAN SHREE B
 ## REG NO:212223100022
-## PROGRAM:
 ~~~
 client.py
 import socket
